@@ -60,5 +60,5 @@ Once the Python engine receives the raw data, it is routed through a signal proc
 - **Standardized Visualizations**: Automatically renders the processed data into a traditional, universally recognized 12-lead ECG grid format (25 mm/s, 10 mm/mV), making it immediately readable by any cardiologist.
 
 ---
-*This README.md file was generated using a LLM*
-*A video tutorial will be added soon*
+*This text was generated using a LLM.*
+*A video demo will be added soon*
